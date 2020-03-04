@@ -1,6 +1,0 @@
-os
-conda
-mpl_toolkits
-matplotlib
-netCDF4
-numpy
