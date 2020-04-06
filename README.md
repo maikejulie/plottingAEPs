@@ -5,6 +5,9 @@ The hope is that exploring the utility of the AEPs will be facilitated. The comp
 
 We strongly recomend that a complexity lower than 12 is avoided as described in Sonnewald et al.
 
+To use:
+Click the 'launch binder' button below. You will see spinning semi-circles until the binder is launched, and an ipython notebook is open that has access to the data for you to plot as you wish. Once it is launched, you 'excecute' the cells by either pressing the 'play' button if on a phone/tablet, or by pressing shift+enter. To change the aggregation level/complexity, substitute the desired number for 'complexity'. 
+
 The data are on Zenodo:
 
 - AEPs: https://zenodo.org/record/3579371
